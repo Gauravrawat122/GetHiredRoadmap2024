@@ -4,8 +4,8 @@ Hi! I'm Kushal Vijay, A **Software Engineer at Microsoft and a Content Creator o
 
 A lot of effort goes into making the video and sheet, One ⭐ to the repo and one share to the video [Video Link](https://youtu.be/4GfYxXRuacU) will not hurt you. 🥺
 
-Other Guides: [LinkedIn Guide](https://youtu.be/-Ad7GoCEm4I?si=w9P7NQCqaMsXqkY4)
-[ LeetCode Problem Solving Guide] (https://youtu.be/b5FLpVUgPig?si=7Fxo7dOESrsL1TJr)
+Other Guides: [LinkedIn Guide](https://youtu.be/-Ad7GoCEm4I?si=w9P7NQCqaMsXqkY4) | 
+[LeetCode Problem Solving Guide](https://youtu.be/b5FLpVUgPig?si=7Fxo7dOESrsL1TJr)
 
 # Programming Language [10 Points]
 
